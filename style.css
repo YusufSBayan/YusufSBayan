@@ -1,0 +1,17 @@
+h3{text-overflow: ; border-bottom: solid 5px #bbb; margin-bottom: auto;}
+h3 input{
+    float:right;
+}
+th,td {
+    padding: 15px;
+}
+th {
+    background-color: #aa2304;
+    color: white;
+  }
+  table{
+    text-align:left;
+  }
+.TOMBOL{
+    padding: 10px;
+}
