@@ -1,17 +1,134 @@
-h3{text-overflow: ; border-bottom: solid 5px #bbb; margin-bottom: auto;}
-h3 input{
-    float:right;
+body{
+    margin: 0;
 }
-th,td {
-    padding: 15px;
+
+.container{
+    position: absolute;
+    width: 1440px;
+    height: 513px;
+    top: 0px;
+    left: 0px;
+    background-color: #31CEFF;
+
 }
-th {
-    background-color: #aa2304;
-    color: white;
-  }
-  table{
-    text-align:left;
-  }
-.TOMBOL{
-    padding: 10px;
+
+.container img{
+    position:absolute;
+    width: 596px;
+    height: 376px;
+    left: -1px;
+    top: 28px;
 }
+
+.container h1{
+    display: flex;
+    position: absolute;
+    width: 578px;
+    height: 119px;
+    left: 725px;
+    top: 149px;
+}
+
+.container p{
+    display: flex;
+    position: absolute;
+width: 655px;
+height: 71px;
+left: 725px;
+top: 292px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 24px;
+}
+
+.header{
+    margin: 0;
+}
+
+.header h2{
+    border-left: #31CEFF 5px solid;
+    position: absolute;
+width: 114px;
+height: 60px;
+left: 72px;
+top: 550px;
+}
+
+.header p{
+    position: absolute;
+width: 604px;
+height: 48px;
+left: 60px;
+top: 630px;
+}
+
+.picture1{
+    margin: 0;
+}
+
+.picture1 h3{
+position: absolute;
+width: 424px;
+height: 225px;
+left: 60px;
+top: 700px;
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 36px;
+letter-spacing: 0.01em;
+}
+
+.picture1 img{
+    position: absolute;
+width: 157px;
+height: 155.64px;
+left: 328px;
+top: 750px;
+}
+
+.picture2 h4{
+    display:;
+    position: absolute;
+    width: 424px;
+    height: 225px;
+    left: 580px;
+    top: 700px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 36px;
+    letter-spacing: 0.01em;
+    }
+    
+    .picture2 h4 img{
+        position: absolute;
+    width: 157px;
+    height: 155.64px;
+    left: 328px;
+    top: 750px;
+    }
+
+    .picture3 h5{
+        display:;
+        position: absolute;
+        width: 424px;
+        height: 225px;
+        left: 1000px;
+        top: 700px;
+        font-style: normal;
+        font-weight: 600;
+        font-size: 24px;
+        line-height: 36px;
+        letter-spacing: 0.01em;
+        }
+        
+    .picture3 img{
+            position: absolute;
+        width: 157px;
+        height: 155.64px;
+        left: 328px;
+        top: 750px;
+        }
